@@ -1,0 +1,114 @@
+table th,td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+.navbar {
+  background-color:black;
+  height:70px;
+  padding-left:102px;
+  width:1362px;
+}
+
+.menu_point{
+    margin: 10px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.menu_point a {
+  color:white;
+  padding:20px;
+}
+
+.menu_point  a:hover {
+  color:green;
+  text-decoration:none;
+}
+
+:after, ::before {
+	box-sizing:none;
+}
+
+.mainsec{
+	margin-top:60px;
+	
+}
+.panel-body{
+	
+	margin-top:60px;
+}
+.search {
+  margin-left:-139px;
+}
+.bts{
+	height:30px;
+	
+}
+
+.productbutton{
+	margin-top:30px;
+	
+}
+.form-group{
+	font-weight:bold;
+	
+}
+.producttitle{
+	color:green;
+	margin-top:15px;
+	
+}
+
+.captiont {
+  caption-side:top;
+  color:green;
+  text-align:center;
+}
+
+
+.head{
+	
+	background-color:#E9EBEE;
+	
+
+}
+
+.totalsale {
+  background-color:#FFFFFF;
+  height:129px;
+  margin-top:46px;
+  padding:21px;
+  width:415px;
+}
+
+.dashimage {
+  margin-left:102px;
+  margin-top:51px;
+}
+
+
+.saleinfo {
+  background-color:#FFFFFF;
+  height:0;
+  margin-top:62px;
+  width:981px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
